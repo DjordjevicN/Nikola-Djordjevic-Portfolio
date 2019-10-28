@@ -70,9 +70,10 @@ span{
 }
 
 .socialPic{
-    width: 50px;
+    font-size: 50px;
     cursor: pointer;
     padding: 20px 20px;
+    color: var(--red-acc);
 }
 .email{
     width: 60px;
