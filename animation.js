@@ -322,13 +322,11 @@ buttonContact.addEventListener('click', () => {
              <i class="fab fa-linkedin linkedIn-logo socialPic"></i>
              </a>
 
-                <a href="https://github.com/DjordjevicN" target="_blank">
+                <a href="https://twitter.com/dzoni_dzon" target="_blank">
                 <i class="fab fa-twitter-square gitHub-logo socialPic"></i>
                 </a>
 
-                <a href="https://github.com/DjordjevicN" target="_blank">
-                <i class="fab fa-instagram gitHub-logo socialPic"></i>
-                    </a>
+            
 
             <a href="mailto:nikola.dj.87@gmail.com"> 
             <i class="fas fa-envelope email socialPic"></i>
