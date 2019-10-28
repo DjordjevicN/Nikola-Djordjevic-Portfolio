@@ -187,7 +187,7 @@ buttonWork.addEventListener('click', () => {
                     <div class="gallery-box">
                     <h1 class="work-title">Real Estate</h1>
                     <!-- link to PAGE vv-->
-                    <a href="https://djordjevicn.github.io/Real-Estate-gold/" target="_blank"><img
+                    <a href="https://hopeful-einstein-2a0f32.netlify.com/" target="_blank"><img
                             src="https://raw.githubusercontent.com/DjordjevicN/Real-Estate-gold/master/Screenshot_1.jpg"
                             alt="project"></a>
                     <!-- link to PIC ^^-->
@@ -196,7 +196,7 @@ buttonWork.addEventListener('click', () => {
                         <a href="https://github.com/DjordjevicN/Real-Estate-gold" target="_blank"> <i
                                 class="fab fa-github"></i></a>
                         <!-- link to PAGE -->
-                        <a href="https://djordjevicn.github.io/Real-Estate-gold/" target="_blank">
+                        <a href="https://hopeful-einstein-2a0f32.netlify.com/" target="_blank">
                             <i class="fas fa-globe"></i>
                         </a>
                     </div>

@@ -20,6 +20,12 @@ body{
     /* background-color: red; */
     color: white;
 }
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
 .nav{
     background-color: var(--side-dark);
     height: 100%;
