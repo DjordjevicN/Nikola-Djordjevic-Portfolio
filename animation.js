@@ -127,6 +127,24 @@ buttonWork.addEventListener('click', () => {
                 </div>
                 <div class="gallery-grid">
 
+                <div class="gallery-box">
+                <h1 class="work-title">Real Estate</h1>
+                <!-- link to PAGE vv-->
+                <a href="https://hopeful-einstein-2a0f32.netlify.com/" target="_blank"><img
+                        src="https://raw.githubusercontent.com/DjordjevicN/Real-Estate-gold/master/Screenshot_1.jpg"
+                        alt="project"></a>
+                <!-- link to PIC ^^-->
+                <div class="links">
+                    <!-- link to GITHUB vv  -->
+                    <a href="https://github.com/DjordjevicN/Real-Estate-gold" target="_blank"> <i
+                            class="fab fa-github"></i></a>
+                    <!-- link to PAGE -->
+                    <a href="https://hopeful-einstein-2a0f32.netlify.com/" target="_blank">
+                        <i class="fas fa-globe"></i>
+                    </a>
+                </div>
+            </div>
+
                     <div class="gallery-box">
                         <h1 class="work-title">Digital Agency</h1>
                         <!-- link to PAGE vv-->
@@ -184,23 +202,7 @@ buttonWork.addEventListener('click', () => {
                     </div>
 
 
-                    <div class="gallery-box">
-                    <h1 class="work-title">Real Estate</h1>
-                    <!-- link to PAGE vv-->
-                    <a href="https://hopeful-einstein-2a0f32.netlify.com/" target="_blank"><img
-                            src="https://raw.githubusercontent.com/DjordjevicN/Real-Estate-gold/master/Screenshot_1.jpg"
-                            alt="project"></a>
-                    <!-- link to PIC ^^-->
-                    <div class="links">
-                        <!-- link to GITHUB vv  -->
-                        <a href="https://github.com/DjordjevicN/Real-Estate-gold" target="_blank"> <i
-                                class="fab fa-github"></i></a>
-                        <!-- link to PAGE -->
-                        <a href="https://hopeful-einstein-2a0f32.netlify.com/" target="_blank">
-                            <i class="fas fa-globe"></i>
-                        </a>
-                    </div>
-                </div>
+                  
 
                     <div class="gallery-box">
                         <h1 class="work-title">Food order</h1>
